@@ -1,2 +1,2 @@
 # Suduko_solver
-suduko_solver based on greedy and backtracking algorithm 
+Solves a Sudoku puzzle scrapped from https://sudokutable.com and solves it based on greedy and backtracking algorithm.
